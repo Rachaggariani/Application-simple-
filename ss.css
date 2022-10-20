@@ -1,0 +1,15 @@
+body{font-family:"open Sans",sans-serif;
+	background-color:gris ;
+	background-image:url("im2.JPG");
+}
+#para1{
+color:green;}
+.para1{Z-index:obsolute;
+botton:0px;
+right:0px;
+color:pink;}
+<!--p{ 
+border: 1px;}-->
+.div-para{background-color:#88BB11;
+font-weight:bold;}
+.para-span{ color:blue;}
